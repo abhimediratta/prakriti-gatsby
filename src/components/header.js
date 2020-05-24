@@ -5,13 +5,13 @@ import "../css/font-awesome.css"
 import "bootstrap/dist/css/bootstrap.css"
 import "../css/style.css"
 import SEO from "../components/seo"
-import logo from "../images/oneshopper-logo.png"
+import logo from "../images/prakriti-logo.png"
 
 
 
 const Header = ({ siteTitle }) => (
   <header className="site-header">
-    <SEO>
+    <SEO title="Prakriti Florist">
     </SEO>
     <div className="container">
       <div className="row">
